@@ -1,6 +1,6 @@
 ﻿namespace Gazi.Kazan.FormsApp
 {
-    partial class Form1
+    partial class frmOyun
     {
         /// <summary>
         /// Required designer variable.

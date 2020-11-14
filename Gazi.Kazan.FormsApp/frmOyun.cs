@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace Gazi.Kazan.FormsApp
 {
-    public partial class Form1 : Form
+    public partial class frmOyun : Form
     {
         static int toplam = 0;
         static int sure = 7;
         Random rnd = new Random();
-        public Form1()
+        public frmOyun()
         {
             InitializeComponent();
         }
